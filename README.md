@@ -1,5 +1,4 @@
-# Moodle
-# Moodle
+# Moodle_MIT
 <p align="center">
   <img src="public/pix/Logo.png" alt="MIT Logo" width="300">
 </p>
