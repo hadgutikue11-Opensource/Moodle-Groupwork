@@ -1,6 +1,7 @@
 # Moodle
+# Moodle
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hadgutikue11-Opensource/Moodle-Hadgu/main/public/pix/Logo.png" alt="MIT Logo" width="300">
+  <img src="public/pix/Logo.png" alt="MIT Logo" width="300">
 </p>
 
 [MIT Moodle Platform] is the World's Open Source Learning Platform, customized for Mekelle Institute of Technology (MIT).
