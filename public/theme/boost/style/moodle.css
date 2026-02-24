@@ -47889,3 +47889,15 @@ body {
   --bs-btn-disabled-border-color: #a6670e;
   --bs-gradient: none;
 }
+/* Example: Make the course content area wider */
+body.limitedwidth #page.drawers .main-inner {
+    max-width: 95%;
+}
+
+/* Example: Modernizing buttons */
+.btn-primary {
+    background-color: #0056b3;
+    border-radius: 20px;
+    padding: 10px 25px;
+    transition: 0.3s;
+}
